@@ -19,12 +19,13 @@
 - **Frontend:**  
   - HTML, CSS, JavaScript, Vue.js, Tailwind CSS
 - **Backend:**  
-  - Node.js, Express.js, Firebase, Odoo (Community Edition)
+  - PHP, Node.js, Firebase, Odoo
 
 #### 📱 **Mobile & Desktop App Development:**
-- Java (Object-Oriented Programming, Android development basics)
+- Java (Object-Oriented Programming)
 
 #### 📊 **Data Analytics:**
+- MySQL 
 - Data manipulation and analysis using tools like Python, Excel
 
 #### 🔧 **Dev Tools & Version Control:**
@@ -53,7 +54,7 @@ A Vue.js app that generates random quotes paired with breathtaking scenery backg
 
 - 📧 Email: wolfparktaerim@gmail.com
 - 💼 LinkedIn: [Piao TaiLin LinkedIn](https://www.linkedin.com/in/tailin-piao-9040bb287)
-- 🧑‍💻 GitHub: [@wolfptl](https://github.com/wolfparktaerim)
+- 🧑‍💻 GitHub: [@wolfparktaerim](https://github.com/wolfparktaerim)
 - 🌍 My Personal Website: [My Website](https://wolfparktaerim.vercel.app/)
 
 -----
