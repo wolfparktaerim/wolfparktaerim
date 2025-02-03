@@ -4,7 +4,7 @@
 
 -----
 
-# Hi there, I'm Piao TaiLin! 👋
+# Hi there, I'm Piao TaiLin, aka Wolf Park Tae Rim! 👋
 
 ### About Me:
 + 🏫 An undergraduate studying at [Singapore Management University](https://www.smu.edu.sg/) 🎓
