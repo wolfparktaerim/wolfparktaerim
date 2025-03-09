@@ -8,7 +8,7 @@
 
 ### About Me:
 + 🏫 An undergraduate studying at [Singapore Management University](https://www.smu.edu.sg/) 🎓
-+ 💻 Passionate about **Web App Development**, **Data Analytics**, and **Technology**.
++ 💻 Passionate about **Web App Development**, **Software Development**, **Data Analytics**, and **Technology**.
 + 🚀 Always seeking opportunities to apply my knowledge in real-world projects and contribute meaningfully to the tech industry.
 
 -----
