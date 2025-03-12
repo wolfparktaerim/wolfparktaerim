@@ -52,7 +52,7 @@ A Vue.js app that generates random quotes paired with breathtaking scenery backg
 
 ### 📫 Connect with Me:
 
-- 📧 Email: wolfparktaerim@gmail.com
+- 📧 Email: wolfparktaerim@gmail.com (personal) / tailin.piao.2023@scis.smu.edu.sg (university)
 - 💼 LinkedIn: [Piao TaiLin LinkedIn](https://www.linkedin.com/in/tailin-piao-9040bb287)
 - 🧑‍💻 GitHub: [@wolfparktaerim](https://github.com/wolfparktaerim)
 - 🌍 My Personal Website: [My Website](https://wolfparktaerim.vercel.app/)
