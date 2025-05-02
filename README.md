@@ -17,9 +17,9 @@
 
 #### 🌐 **Web Development:**
 - **Frontend:**  
-  - HTML, CSS, JavaScript, Vue.js, Tailwind CSS
+  - HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind CSS
 - **Backend:**  
-  - PHP, Node.js, Firebase, Odoo
+  - PHP, Java, Node.js, Firebase, Odoo
 
 #### 📱 **Mobile & Desktop App Development:**
 - Java (Object-Oriented Programming)
