@@ -8,7 +8,7 @@
 
 ### About Me:
 + 🏫 An undergraduate studying at [Singapore Management University](https://www.smu.edu.sg/) 🎓
-+ 💻 Passionate about **Web App Development**, **Software Development**, **Data Analytics**, and **Technology**.
++ 💻 Passionate about **Web App Development**, **Software Development** and **Data Analytics**.
 + 🚀 Always seeking opportunities to apply my knowledge in real-world projects and contribute meaningfully to the tech industry.
 
 -----
@@ -17,16 +17,14 @@
 
 #### 🌐 **Web Development:**
 - **Frontend:**  
-  - HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind CSS
+  - HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind CSS, React.js, TypeScript
 - **Backend:**  
   - PHP, Java, Node.js, Firebase, Odoo
-
-#### 📱 **Mobile & Desktop App Development:**
-- Java (Object-Oriented Programming)
 
 #### 📊 **Data Analytics:**
 - MySQL 
 - Data manipulation and analysis using tools like Python, Excel
+- pandas, sckit-learn, matplotlib, seaborn
 
 #### 🔧 **Dev Tools & Version Control:**
 - Git, GitHub, Visual Studio Code, Docker (working on local containerized projects)
